@@ -1,0 +1,260 @@
+body {
+    background-color: #FFFFFF;
+}
+.nav-bar-menu{
+    margin-top: -1.5%;
+}
+.welcome-text{
+    background-color: #2c2c2c33;
+    text-align:center;
+    display: table;
+    padding: 1.5%;
+    border-radius: 100px;
+    margin-top: 25%;
+    margin-left: 10%;
+
+}
+.expert-text{
+    margin-left: 10%;
+}
+.text-below-expert{
+    margin-left: 10%;
+    text-align: justify;
+}
+.main-img{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.first-button{
+    margin-left: 10%;
+}
+.sec-button{
+    margin: 2%
+}
+.feature-main{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.feature-text{
+    background-color: #2c2c2c33;
+    text-align:center;
+    display: table;
+    margin: 0px auto 0px auto;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    border-radius: 100px;
+}
+.feature-para{
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: justify;
+}
+
+.about-us{
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+.agency-text{
+    width: 70%;
+    text-align: justify;
+    margin-left: 2%;
+}
+ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+  }
+.about-button{
+    margin-left: 4%;
+    border-radius: 100px;
+}
+.graphic-logo{
+    margin-top: 7%;
+    float: right;
+}
+.link-logo{
+    margin-top: 7%;
+}
+.globe-logo{
+    margin-top: 7%;
+    float: right;
+}
+.bullhorn-logo{
+    margin-top: 7%;
+}
+
+.hash-logo{
+    margin-top: 7%;
+    float: right;
+}
+.web-logo{
+    margin-top: 7%;
+}
+
+.our-services-text{
+    margin-left: -38%;
+}
+
+.testimonial-area {
+	padding: 80px 0;
+}
+.section-header h4 {
+	color: #525151;
+	font-weight: 600;
+}
+.section-header {
+	padding-bottom: 15px;
+}
+.section-header h2 {
+	font-weight: 700;
+}
+.section-header p {
+	color: #6f6b80;
+	width: 40%;
+	margin: auto;
+}
+.icon-area {
+	text-align: center;
+}
+.icon-area i {
+	color: #525151;
+	font-size: 80px;
+	margin-bottom: 20px;
+}
+.content p {
+	color: #6f6b80;
+	width: 60%;
+	margin: auto;
+}
+.person {
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 5px solid #525151;
+	margin-top: 50px;
+}
+.person img {
+	width: 100%;
+}
+.content h5 {
+	font-weight: 900;
+	margin-top: 15px;
+}
+.testimonial-area {
+	background: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.carousel-indicators {
+	bottom: -80px;
+}
+.carousel-indicators [data-bs-target] {
+	width: 60px;
+	height: 10px;
+	background-color: #525151;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.section-header p {
+		width: 85%;
+	}
+	.content p {
+		width: 95%;
+	}
+}
+@media (max-width: 767px) {
+	.testimonial-area {
+		padding: 30px 0;
+	}
+	.section-header p {
+		width: 95%;
+	}
+	.content p {
+		width: 100%;
+	}
+	.icon-area i {
+		font-size: 50px;
+	}
+}
+
+@media (max-width:1200px){
+    .our-services-text{
+        margin-left: -33%;
+    }
+}
+
+@media (max-width:992px){
+    .main-img{
+        margin-top: 40%;
+    }
+    .our-services-text{
+        margin-left: -10%;
+    }
+}
+@media (max-width:767px){
+    .main-img{
+        margin-top: 70%;
+    }
+    .welcome-text{
+        margin-top: 40%;
+    }
+    .first-button{
+        margin-bottom: 3%;
+    }
+    .sec-button{
+        margin-left: 10%;
+    }
+}
+@media (max-width:820px){
+    .sec-button{
+        margin-top:1%;
+        padding-left:10%;
+    }
+}
+@media (max-width:576px){
+    .graphic-logo{
+        margin-top: 0%;
+        float: none;
+        margin-left: 40%;
+    }
+    .seo-link{
+        margin-left: 40%;
+    }
+    .our-services-text{
+        margin-left: -50%;
+        margin-top: 10%;
+    }
+    .globe-logo{
+        margin-top: 0%;
+        float: none;
+        margin-left: 40%;
+    }
+    .bullhorn-logo{
+        margin-left: 450%;
+    }
+    .bullhorn-text{
+        margin-top: 15%;
+        margin-left: -9%;
+    }
+    .hash-logo{
+        margin-top: 0%;
+        float: none;
+        margin-left: 40%;
+    }
+    .web-logo{
+        margin-left: 350%;
+    }
+    .web-text{
+        margin-top: 15%;
+        margin-left: -11%;
+    }
+}
+@media (max-width:450px){
+}
+@media (max-width:300px){
+}
+
