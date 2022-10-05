@@ -153,6 +153,9 @@ ul {
 .carousel-indicators {
 	bottom: -80px;
 }
+.backlinks-body-text{
+    margin-left: -38%;
+}
 .carousel-indicators [data-bs-target] {
 	width: 60px;
 	height: 10px;
