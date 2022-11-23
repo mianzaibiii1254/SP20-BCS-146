@@ -1,0 +1,139 @@
+#body {
+    background-color: #EEEEEE;
+}
+
+#topHeader {
+    height: 100px;
+    width: 100%;
+    background-color: #281604;
+
+}
+
+#headerText {
+    font-size: 350%;
+    color: #E47911;
+    margin-left: 10%;
+}
+
+.backgroundColor {
+    background-color: #E47911;
+}
+
+.homeMargin {
+    margin-left: 10%;
+}
+
+.menu ul {
+    margin-left: 10%;
+    ;
+}
+
+#topindia {
+    margin-left: 2%;
+}
+
+#topStories {
+    margin-top: 1%;
+    margin-left: 15%;
+    width: 60%;
+    background-color: white;
+}
+
+#topStoriessec {
+    margin-top: -1%;
+    margin-left: 15%;
+    width: 60%;
+    background-color: #281604;
+}
+
+#alsovisit{
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#topStoriessec ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#topStoriessec ul li {
+    float: left;
+}
+
+#topStoriessec ul li a {
+    text-decoration: none;
+    color: #E46609;
+    display: block;
+    padding: 8px;
+}
+#ITS{
+    margin-top: 1%;
+    margin-left: 15%;
+    width: 60%;
+}
+
+#ITS-1{
+    width: 17%;
+    border-radius: 1%;
+    border-style: solid;
+    border-width: 0.1px;
+    float: left;
+}
+#ITS-2{
+    width: 81.5%;
+    margin-left: 18.5%;
+    background-color: white;
+    
+
+}
+#ITS-1 p{
+    padding: 5%;
+    background-color: #281604;
+    color: #E46609;
+    font-weight: bold;
+}
+#ITS-1 ul li{
+    padding-top:2%;
+    list-style-type: none;
+    
+}
+#ITS-1 ul li a{
+    text-decoration: none;
+    color: black;
+}
+#ITS-2-1{
+    width: 100%;
+    border-radius: 5%;
+}
+#ITS-2-1 h2{
+    margin-top: 2%;
+    margin-left: 1%;
+    padding-bottom: 1%;
+    
+}
+#ITS-2-2-1{
+    width: 33%;
+    float: left;
+    
+}
+#ITS-2-2-2{
+    width: 30%;
+    float: left;
+}
+
+#ITS-2-2 div h5{
+    color: #E47911;
+    margin-left: 2%;
+}
+#footer-div{
+    height: 30%;
+    width: 100%;
+    background-color: #281604;
+}
+#footerp{
+    color:white ;
+    text-align: center;
+}
