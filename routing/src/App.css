@@ -1,0 +1,8 @@
+.Menu{
+    display: inline;
+    margin: 1%;
+}
+.MenuText{
+    text-decoration: none;
+    color: blueviolet;
+}
