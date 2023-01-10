@@ -1,0 +1,11 @@
+.Menu{
+  display: inline;
+  margin-left: 10%;
+}
+.MenuText{
+  text-decoration: none;
+  color: white;
+}
+.MenuText:hover{
+  color: whitesmoke;
+}
